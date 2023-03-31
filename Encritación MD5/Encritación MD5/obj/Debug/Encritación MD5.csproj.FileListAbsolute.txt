@@ -1,0 +1,8 @@
+C:\Users\Erasmo Castro\Desktop\ProyectosGithub\Encritación MD5\Encritación MD5\obj\Debug\Encritación MD5.csproj.AssemblyReference.cache
+C:\Users\Erasmo Castro\Desktop\ProyectosGithub\Encritación MD5\Encritación MD5\obj\Debug\Encritación MD5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Erasmo Castro\Desktop\ProyectosGithub\Encritación MD5\Encritación MD5\obj\Debug\Encritación MD5.csproj.CoreCompileInputs.cache
+C:\Users\Erasmo Castro\Desktop\ProyectosGithub\Encritación MD5\Encritación MD5\bin\Debug\Encritación MD5.exe.config
+C:\Users\Erasmo Castro\Desktop\ProyectosGithub\Encritación MD5\Encritación MD5\bin\Debug\Encritación MD5.exe
+C:\Users\Erasmo Castro\Desktop\ProyectosGithub\Encritación MD5\Encritación MD5\bin\Debug\Encritación MD5.pdb
+C:\Users\Erasmo Castro\Desktop\ProyectosGithub\Encritación MD5\Encritación MD5\obj\Debug\Encritación MD5.exe
+C:\Users\Erasmo Castro\Desktop\ProyectosGithub\Encritación MD5\Encritación MD5\obj\Debug\Encritación MD5.pdb
